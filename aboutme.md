@@ -4,12 +4,14 @@ title: About me
 subtitle: Welcome to my page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rupesh. I have the following qualities:
 
 - I'm an awesome coder
 - I'm extremely loyal to my friends and family
+- I watch a lot of movies and TV shows
+- I love reading novels, mostly history fiction lately
 
-What else do you need?
+What else do you wanna know?
 
 ### Interests
 
@@ -18,10 +20,12 @@ What else do you need?
 - Deep Learning [mainly Image Processing]
 - Discrete Mathematics 
 - Table Tennis
+- Movies & TV shows
 
 ### Projects
 
-- 3D Reconstruction in Cryogenic Electron Microscopy [Btech Thesis Project] [Ongoing] 
+- 3D Reconstruction in Cryogenic Electron Microscopy [Btech Thesis Project] [Ongoing]
+- Object Detection and Keypoint regression [Virtual Internship with Uplara] [Ongoing]
 - [Causal Bandit](https://github.com/rs9899/causal-bandit)
 - [Video Bokeh Effect](https://github.com/rs9899/Video-Bokeh-Effect)
 - [SPSIM - a Superscalar Processor SIMulator](https://github.com/ys1998/spsim)
@@ -39,6 +43,9 @@ What else do you need?
 ### Other Recent Achievement
 * Completed Hacktoberfest 2019!
 * Currently rated 1700+ in Codeforces
+* 130+ movies out of IMDb top 250
+* 50+ TV shows out of IMDb top 250
+* 150+ novels read 
 
 
 ### Contact
@@ -46,4 +53,5 @@ What else do you need?
 - Email : [rupesh95903@gmail.com](mailto:rupesh95903@gmail.com), [rupesh@cse.iitb.ac.in](mailto:rupesh@cse.iitb.ac.in)
 - Medium : [rupeshkumar_9557](https://medium.com/@rupeshkumar_9557)
 - Hackernoon : [rupesh](https://hackernoon.com/@rupesh)
-- Facebook : [rupesh2906](https://www.facebook.com/rupesh2906)
+- Goodread : [rupesh](https://www.goodreads.com/user/show/69283590-rupesh)
+
