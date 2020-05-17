@@ -6,8 +6,6 @@ tags: [websecurity, random]
 ---
 
 ![](https://cdn-images-1.medium.com/max/1000/0*m12Mo1pHiOM3c5xL.png)
-<span class="figcaption_hack">Source:
-[https://www.thesslstore.com/blog/difference-encryption-hashing-salting/](https://www.thesslstore.com/blog/difference-encryption-hashing-salting/)</span>
 
 For the time being, I want you p33ps to ignore the general meaning of these
 words used in daily context and give a new meaning to them for the current time
