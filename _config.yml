@@ -18,7 +18,7 @@ navbar-links:
   Resume: "https://www.cse.iitb.ac.in/~rupesh/Resume.pdf"
   Projects: "project"
   About Me / Contact: "aboutme"
-nav-search: "search"
+  nav-search: "search"
 
 # --- Logo --- #
 
