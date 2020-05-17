@@ -83,9 +83,9 @@ search.*
 
 Some other links for your help:
 
-* [https://www.phonecurry.com/benchmarks](https://www.phonecurry.com/benchmarks)
-* [https://www.t3.com/features/best-smartphone](https://www.t3.com/features/best-smartphone)
-* [https://www.digit.in/top-products/](https://www.digit.in/top-products/)
+* [Processor benchmarks](https://www.phonecurry.com/benchmarks)
+* [t3.com/best-smartphone](https://www.t3.com/features/best-smartphone)
+* [digit.in/top-products/](https://www.digit.in/top-products/)
 
 > Thanks for reading ❤
 
