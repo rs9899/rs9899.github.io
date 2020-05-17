@@ -1,1 +1,1 @@
-Copied the repo as template from https://github.com/daattali/beautiful-jekyll
+Cause hosting personal blog and website using github pages is so easy ❤️
