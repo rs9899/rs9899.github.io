@@ -6,11 +6,6 @@ cover-img: /assets/img/path.jpg
 tags: [relationship, math, random]
 ---
 
-![](https://cdn-images-1.medium.com/max/1000/0*avnr5aF4r2neoBhr)
-<span class="figcaption_hack">Photo by [Antoine
-Dautry](https://unsplash.com/@antoine1003?utm_source=medium&utm_medium=referral)
-on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</span>
-
 It is not a relationship blog or anything even close to it. Just math. Pure
 applied math.
 
