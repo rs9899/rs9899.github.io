@@ -12,10 +12,7 @@ author: Rupesh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-  Resume: "https://www.cse.iitb.ac.in/~rupesh/Resume.pdf"
+  Resume: "https://rs9899.github.io/assets/img/Resume.pdf"
   Projects: "project"
   About Me / Contact: "aboutme"
   🔍: "search"
