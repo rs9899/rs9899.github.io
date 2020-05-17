@@ -75,7 +75,7 @@ averages.*
 
 Reference:
 
-* [https://en.wikipedia.org/wiki/Friendship_paradox](https://en.wikipedia.org/wiki/Friendship_paradox)
+* [Friendship_paradox](https://en.wikipedia.org/wiki/Friendship_paradox)
 
 > I highly encourage readers to try working this proof by themselves in details,
 > and in any doubt, I will be happy to answer personally or in comments.
