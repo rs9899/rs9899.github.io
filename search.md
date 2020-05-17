@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search rs9899.github.io"
+title: "Search"
 ---
 
 # Search rs9899.github.io
