@@ -764,6 +764,16 @@ footer .footer-custom-content {
   border: 1px solid {{ site.hover-col | default: "#0085A1" }};
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
+@media screen and (max-width: 600px) {
+  .mobile-js-hide {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
 
 /* --- Tables --- */
 
