@@ -1,6 +1,6 @@
-layout: default
+---
+layout: page
 title: "Search rs9899.github.io"
-css: "/css/search.css"
 ---
 
 # Search rs9899.github.io
