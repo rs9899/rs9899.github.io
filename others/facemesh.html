@@ -12,6 +12,13 @@
 	<script>
 
 	/* running facemesh code */
+async function delay(delayInms) {
+      return new Promise(resolve  => {
+        setTimeout(() => {
+          resolve(2);
+        }, delayInms);
+      });
+    }
 	async function get_facemesh()
 	{
 
@@ -57,7 +64,7 @@
 			{
 				console.log(`no faces detected..`);
 			}
-
+			let delayres = await delay(1000);
 			// loop to process the next frame
 			await tf.nextFrame();
 		}
