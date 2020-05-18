@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Search"
+subtitle: "Custom Made for this webpage"
 ---
 
-# Search rs9899.github.io
-
-### Using the Amazing Google
 
 <div id="google-custom-search">
 <script>
