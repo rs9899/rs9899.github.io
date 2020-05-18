@@ -57,14 +57,14 @@ async function delay(delayInms) {
 				for(i=0; i< mesh.length; i++)
 				{
 					var [x, y, z] = mesh[i];
-					draw.fillRect(Math.round(x), Math.round(y), 10, 10);
+					draw.fillRect(Math.round(x), Math.round(y), 2, 2);
 				}
 			}
 			else
 			{
 				console.log(`no faces detected..`);
 			}
-			let delayres = await delay(1000);
+			let delayres = await delay(100);
 			// loop to process the next frame
 			await tf.nextFrame();
 		}
