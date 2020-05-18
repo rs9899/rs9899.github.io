@@ -15,7 +15,8 @@ navbar-links:
   Blog: "blog"
   Resume: "https://rs9899.github.io/assets/img/Resume.pdf"
   Projects: "project"
-  About Me / Contact: "aboutme"
+  Others: "others/index"
+  About Me: "aboutme"
   🔍: "search"
 
 # --- Logo --- #
