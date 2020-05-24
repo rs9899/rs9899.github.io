@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Salts and Hashes
+title: Lockdown Productivity
 cover-img: /assets/img/lockdown.png
 tags: [creative, random]
 ---
