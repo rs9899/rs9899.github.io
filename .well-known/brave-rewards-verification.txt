@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rs9899.github.io
+Token: 79258f716965ccc5d7b10316e9ed5a648730a56c33cc691f37c8e29c902dad6c
