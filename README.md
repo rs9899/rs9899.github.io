@@ -1,5 +1,5 @@
 # My Webpage 
-Currently being served at https://rs9899.github.io/
+Currently being served at https://rupesh.info/
 
 Cause hosting personal blog and website using github pages is so easy ❤️
 
