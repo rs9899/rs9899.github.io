@@ -14,11 +14,16 @@ author: Rupesh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "blog"
-  Resume: "https://rs9899.github.io/assets/img/Resume.pdf"
-  Projects: "project"
-  Others: "others"
-  About Me: "aboutme"
+  Creative:
+    - Blog: "blog"
+    - Movie Review: "https://100wordsreview.com"
+  Coding:
+    - Projects: "project"
+    - Code Snippets: "https://rupesh.info/gisthub"
+    - Random Tryouts: "others"
+  About:
+    - Me: "aboutme"
+    - Resume: "assets/img/Resume.pdf"
   🔍: "search"
 
 # --- Logo --- #
