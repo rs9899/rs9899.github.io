@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Other webpages
+title: Random
 subtitle: Just trying to create something in the free time
 ---
 
-- [Inner Peace](https://rs9899.github.io/others/blank)
-- [Face Detection](https://rs9899.github.io/others/facemesh)
+- [Inner Peace](others/blank)
+- [Face Detection](others/facemesh)
+- [Snake Game](others/snake)
