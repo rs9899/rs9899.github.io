@@ -4,6 +4,6 @@ title: Random
 subtitle: Just trying to create something in the free time
 ---
 
-- [Inner Peace](others/blank)
-- [Face Detection](others/facemesh)
-- [Snake Game](others/snake)
+- [Inner Peace](blank)
+- [Face Detection](facemesh)
+- [Snake Game](snake)
