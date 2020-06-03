@@ -12,7 +12,7 @@ title: My Projects
 - [EDGE - "Efficient Digital Grading Environment"](https://github.com/ys1998/edge)
 - [VQA : A CS763 Odyssey](https://github.com/aryanbdps9/VQA2019)
 - [Zero Shot Learning in scene graph generation](https://github.com/rs9899/AMLProj)
-- [Game of Life](https://github.com/dungeon-masterRupesh/Game-of-life)
+- [Game of Life](https://github.com/rs9899/Game-of-life)
 - [Desktop Buddy](https://github.com/ashish-221b/Hack-U)
 - [GetSchedGo](https://github.com/ashish-221b/Get-Sched-Go)
 - [Railway Controller in VHDL](https://github.com/Naman-ntc/Railway-Controller-FPGA)
