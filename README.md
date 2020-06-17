@@ -25,9 +25,6 @@ gem update # sudo might be needed but try to avoid using sudo
 gem install jekyll bundler
 jekyll -v   # to test the installation
 ```
-
-
-
 ```bash
 cd ~/[path to this repo home]
 bundle install # add your sudo password if asked for password
