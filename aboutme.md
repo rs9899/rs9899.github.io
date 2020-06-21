@@ -47,7 +47,6 @@ What else do you wanna know?
 * Creative
   * Medium : [rupeshkumar_9557](https://medium.com/@rupeshkumar_9557)
   * Hackernoon : [rupesh](https://hackernoon.com/@rupesh)
-  * Wikipedia : [rs9899](https://en.wikipedia.org/wiki/User:RS9899)
 * Content Consumptions
   * Goodread : [rupesh](https://www.goodreads.com/user/show/69283590-rupesh)
   * IMDb : [rupesh](https://www.imdb.com/user/ur67515682)
