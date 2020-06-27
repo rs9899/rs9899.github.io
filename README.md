@@ -8,7 +8,7 @@ Cause hosting personal blog and website using github pages is so easy ❤️
 
 
 
-### Running it locally
+## Running it locally
 
 To run it locally you need to install Jekyll and bundle which you can do from [here](https://jekyllrb.com/docs/installation/)
 
