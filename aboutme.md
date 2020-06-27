@@ -52,6 +52,7 @@ What else do you wanna know?
   * IMDb : [rupesh](https://www.imdb.com/user/ur67515682)
 * Coding
   * Github : [rs9899](https://github.com/rs9899)
+  * Libraries.io : [rs9899](https://libraries.io/github/rs9899/)
   * CodeChef : [rupesh50042](https://www.codechef.com/users/rupesh50042)
   * Codeforces : [rupesh50042](https://codeforces.com/profile/rupesh50042)
   * Sourcerer : [rs9899](https://sourcerer.io/rs9899) 
