@@ -30,3 +30,8 @@ cd ~/[path to this repo home]
 bundle install # add your sudo password if asked for password
 bundle exec jekyll serve
 ```
+
+### Contact
+In case of any issue or discussion, drop a mail at [rupesh95903.com](mailto:rupesh95903.com).
+
+> Thanks
