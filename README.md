@@ -34,4 +34,4 @@ bundle exec jekyll serve
 ### Contact
 In case of any issue or discussion, drop a mail at [rupesh95903.com](mailto:rupesh95903.com).
 
-> Thanks
+> Thanks for visiting. Drop a star if you liked the repo.
