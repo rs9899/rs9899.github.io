@@ -23,6 +23,7 @@ navbar-links:
     - Random Tryouts: "others"
   About:
     - Me: "aboutme"
+    - Interactive CV: "https://rupesh.info/webCV"
     - Resume: "assets/img/Resume.pdf"
   🔍: "search"
 
