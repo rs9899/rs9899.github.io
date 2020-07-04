@@ -20,6 +20,7 @@ navbar-links:
   Coding:
     - Projects: "project"
     - Code Snippets: "https://rupesh.info/gisthub"
+    - Learning Resources: "https://rupesh.info/my-learning-resources"
     - Random Tryouts: "others"
   About:
     - Me: "aboutme"
