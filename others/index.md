@@ -9,3 +9,5 @@ subtitle: Just trying to create something in the free time
 - [Snake Game](snake)
 - [Hand Written Digits recognition on JavaScript](https://rupesh.info/mnist-on-browser/full_demo/) - Currently supporter for desktop browsers only.
 - [Minor in Statistics, IIT Bombay](https://rupesh.info/stats-minor-iitb) - a brief overview
+- [Previous Resume after 3rd year](https://rupesh.info/assets/img/Resume_iitb.pdf)
+- [Year-wise Resume List](https://www.cse.iitb.ac.in/~rupesh/resumeList.htm)
