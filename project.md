@@ -3,8 +3,10 @@ layout: page
 title: My Projects
 ---
 
-- 3D Reconstruction in Cryogenic Electron Microscopy <br> [Btech Thesis Project] [Ongoing]
-- Object Detection and Keypoint regression <br> [Virtual Internship with Uplara] [Ongoing]
+- [Random Episode Picker](https://rupesh.info/randomEpisodeGenerator/)
+- [CV2 matplot ploting](https://pypi.org/project/cv2-plt-imshow/) [A PyPI Package]
+- 3D Reconstruction in Cryogenic Electron Microscopy <br> [Btech Thesis Project] 
+- Object Detection and Keypoint regression <br> [Virtual Internship with Uplara] 
 - [Implementing SSD Object Detector from Scratch in Keras](https://github.com/rs9899/mySSDimplementation)
 - [Causal Bandit](https://github.com/rs9899/causal-bandit)
 - [Video Bokeh Effect](https://github.com/rs9899/Video-Bokeh-Effect)
