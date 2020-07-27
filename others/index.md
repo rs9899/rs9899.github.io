@@ -12,3 +12,4 @@ subtitle: Just trying to create something in the free time
 - [Previous Resume after 3rd year](https://rupesh.info/assets/img/Resume_iitb.pdf)
 - [Year-wise Resume List](https://www.cse.iitb.ac.in/~rupesh/resumeList.htm)
 - [A Website with the style of a terminal](https://rupesh.info/termWeb/)
+- [Random Episode Picker](https://rupesh.info/randomEpisodeGenerator/)
