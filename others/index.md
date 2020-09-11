@@ -13,3 +13,4 @@ subtitle: Just trying to create something in the free time
 - [Year-wise Resume List](https://www.cse.iitb.ac.in/~rupesh/resumeList.htm)
 - [A Website with the style of a terminal](https://rupesh.info/termWeb/)
 - [Random Episode Picker](https://rupesh.info/randomEpisodeGenerator/)
+- [dotfiles](https://rupesh.info/dotfiles/) - .zshrc, .vimrc and such .configs
