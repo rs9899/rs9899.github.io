@@ -34,9 +34,9 @@ What else do you wanna know?
   * Currently rated 1700+ in Codeforces
   * Currently rated 1800+ in Codeforces
 * Content Consumptions
-  * 130+ movies out of IMDb top 250
-  * 50+ TV shows out of IMDb top 250
-  * 150+ novels read 
+  * 150+ movies out of IMDb top 250
+  * 75+ TV shows out of IMDb top 250
+  * 200+ novels read 
 
 
 ## Contact
